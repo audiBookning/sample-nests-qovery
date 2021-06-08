@@ -8,3 +8,6 @@
 
 
 - The `.env.example` file, like the config module, is not being used yet.
+
+License
+ISC © 2021 AudiBookning
