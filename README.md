@@ -9,5 +9,13 @@
 
 - The `.env.example` file, like the config module, is not being used yet.
 
+## Disclaimer
+
+This code is not and will never be maintained. It is just some random sample code.
+
+Feel free to copy and make any change you like.
+
+##
+
 License
 ISC © 2021 AudiBookning
