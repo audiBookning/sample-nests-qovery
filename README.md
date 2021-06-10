@@ -1,6 +1,6 @@
 # [NestJS](https://nestjs.com/) working with [Qovery](https://www.qovery.com/) Sample Code
 
-Part of a personal [list](https://github.com/audiBookning/sample-nestjs-codes) of random samples code for NestJS
+Part of a personal [list](https://github.com/audiBookning/samples-code-ressource-list) of random samples code
 
 - Just one App with No service (like, for example, a DB).
 
